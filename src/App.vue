@@ -38,8 +38,7 @@ export default {
     return {
       gist: [],
       page: "",
-      loads: false,
-      click: 1
+      loads: false
     };
   },
 

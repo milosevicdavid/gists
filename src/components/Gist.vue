@@ -76,9 +76,6 @@ export default {
   align-items: center;
 }
 
-.avatar-wrapper {
-}
-
 @keyframes movefade {
   0% {
     transform: translateX(0%);
